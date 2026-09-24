@@ -2,9 +2,9 @@
 
 Repositório com os programas desenvolvidos no **Trabalho Prático II**, cujo tema é a manipulação de um dataset de veículos. O trabalho reúne 13 programas em **Java** e **C**, abordando modelagem de dados, algoritmos de ordenação, pesquisa e estruturas de dados.
 
-> **Disciplina:** Algoritmos e Estrutura de Dados II
-> **Instituição:** PUC Minas Unidade Coração Eucarístico
-> **Autor:** Amanda Alvarenga Dias
+**Disciplina:** Algoritmos e Estrutura de Dados II
+**Instituição:** PUC Minas Unidade Coração Eucarístico
+**Autor:** Amanda Alvarenga Dias
 
 ---
 

@@ -80,21 +80,21 @@ Cada veículo é impresso em uma linha, com os campos separados por ` ## `, entr
 
 ## Programas do trabalho
 
-| # | Programa | Linguagem | Categoria | Status |
-|---|----------|-----------|-----------|--------|
-| 1 | Modelagem | Java | Modelagem | ✅ Concluído |
-| 2 | Modelagem | C | Modelagem | ✅ Concluído |
-| 3 | Ordenação por seleção | C | Ordenação | ⬜ Pendente |
-| 4 | Ordenação por inserção | Java | Ordenação | ⬜ Pendente |
-| 5 | Ordenação por Counting Sort | C | Ordenação | ⬜ Pendente |
-| 6 | Ordenação por Radix Sort | C | Ordenação | ⬜ Pendente |
-| 7 | Ordenação por Bucket Sort | Java | Ordenação | ⬜ Pendente |
-| 8 | Pesquisa binária | C | Pesquisa | ⬜ Pendente |
-| 9 | Lista com alocação sequencial | Java | Estrutura de dados | ⬜ Pendente |
-| 10 | Fila circular com alocação sequencial | C | Estrutura de dados | ⬜ Pendente |
-| 11 | Lista com alocação flexível | C | Estrutura de dados | ⬜ Pendente |
-| 12 | Pilha com alocação flexível | Java | Estrutura de dados | ⬜ Pendente |
-| 13 | Lista dupla com alocação flexível | Java | Estrutura de dados | ⬜ Pendente |
+| # | Programa | Linguagem | Categoria |
+|---|----------|-----------|-----------|
+| 1 | Modelagem | Java | Modelagem |
+| 2 | Modelagem | C | Modelagem |
+| 3 | Ordenação por seleção | C | Ordenação |
+| 4 | Ordenação por inserção | Java | Ordenação |
+| 5 | Ordenação por Counting Sort | C | Ordenação |
+| 6 | Ordenação por Radix Sort | C | Ordenação |
+| 7 | Ordenação por Bucket Sort | Java | Ordenação |
+| 8 | Pesquisa binária | C | Pesquisa |
+| 9 | Lista com alocação sequencial | Java | Estrutura de dados |
+| 10 | Fila circular com alocação sequencial | C | Estrutura de dados |
+| 11 | Lista com alocação flexível | C | Estrutura de dados |
+| 12 | Pilha com alocação flexível | Java | Estrutura de dados |
+| 13 | Lista dupla com alocação flexível | Java | Estrutura de dados |
 
 
 ---
